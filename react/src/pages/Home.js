@@ -6,7 +6,7 @@ export default function() {
       <h2 className="app-nav-item" style={{ borderColor: 'red' }}>
         Home撒打算大苏打 阿迪斯
       </h2>
-      <Welcome name="Nuomi" date={new Date()}></Welcome>,
+
     </div>
   );
 }
